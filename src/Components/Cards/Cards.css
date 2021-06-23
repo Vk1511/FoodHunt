@@ -1,0 +1,68 @@
+.main_conatiner {
+  display: flex;
+  padding: 2.5rem;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+.nodata {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.nodata_img {
+  width: 15rem;
+  height: 15rem;
+}
+.card_con {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 3px 10px 0 #eeafb5;
+  width: 17rem;
+  padding: 1rem;
+  overflow: hidden;
+}
+.card_img {
+  width: 100%;
+  border-radius: 0.3rem;
+}
+.iteam_title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+}
+.nutrients_con {
+  display: flex;
+  flex-direction: column;
+}
+.nutrients {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: rgb(71, 70, 70);
+  margin-bottom: 0.3rem;
+}
+.nutrients_det {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.nutrients_det_ans {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1rem;
+  font-weight: 500;
+  color: rgb(94, 93, 93);
+}
+.ingredients {
+  margin-top: 0.8rem;
+  display: flex;
+  justify-content: center;
+  border-radius: 0.3rem;
+  padding: 0.5rem;
+  font-weight: 500;
+  cursor: pointer;
+  color: #ededed;
+  background-color: #171717;
+}
