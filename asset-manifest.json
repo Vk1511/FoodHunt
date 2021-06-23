@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vk1511/FoodHunt/static/css/main.0531cc93.chunk.css",
+    "main.js": "/vk1511/FoodHunt/static/js/main.3c56c5e6.chunk.js",
+    "main.js.map": "/vk1511/FoodHunt/static/js/main.3c56c5e6.chunk.js.map",
+    "runtime-main.js": "/vk1511/FoodHunt/static/js/runtime-main.6589ef3f.js",
+    "runtime-main.js.map": "/vk1511/FoodHunt/static/js/runtime-main.6589ef3f.js.map",
+    "static/js/2.add34773.chunk.js": "/vk1511/FoodHunt/static/js/2.add34773.chunk.js",
+    "static/js/2.add34773.chunk.js.map": "/vk1511/FoodHunt/static/js/2.add34773.chunk.js.map",
+    "static/js/3.2fede3a9.chunk.js": "/vk1511/FoodHunt/static/js/3.2fede3a9.chunk.js",
+    "static/js/3.2fede3a9.chunk.js.map": "/vk1511/FoodHunt/static/js/3.2fede3a9.chunk.js.map",
+    "index.html": "/vk1511/FoodHunt/index.html",
+    "static/css/main.0531cc93.chunk.css.map": "/vk1511/FoodHunt/static/css/main.0531cc93.chunk.css.map",
+    "static/js/2.add34773.chunk.js.LICENSE.txt": "/vk1511/FoodHunt/static/js/2.add34773.chunk.js.LICENSE.txt",
+    "static/media/close.eedac43a.svg": "/vk1511/FoodHunt/static/media/close.eedac43a.svg",
+    "static/media/logo.6ce6df1b.png": "/vk1511/FoodHunt/static/media/logo.6ce6df1b.png",
+    "static/media/search.16f37be5.svg": "/vk1511/FoodHunt/static/media/search.16f37be5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6589ef3f.js",
+    "static/js/2.add34773.chunk.js",
+    "static/css/main.0531cc93.chunk.css",
+    "static/js/main.3c56c5e6.chunk.js"
+  ]
+}
